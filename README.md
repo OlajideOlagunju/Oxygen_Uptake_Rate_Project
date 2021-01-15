@@ -6,4 +6,4 @@ Online measurement of oxygen uptake rates (OUR) in Biomass can be utilized to co
 ![](https://github.com/OlaOlagunju/OUR_Project/blob/main/fig_3.jpg)
 
 
-[Full Project](https://github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb)
+[Full Project Link](https://github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb)
